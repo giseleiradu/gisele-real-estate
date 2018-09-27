@@ -1,0 +1,47 @@
+  /* html {
+    font-size: 14px;
+  } */
+  body{
+    background-image: radial-gradient(mintcream 30%, lightgray 70%);
+  }
+  @media (min-width: 768px) {
+    html {
+      font-size: 16px;
+    }
+  }
+  
+  .logoo{
+    border-radius: 10%;
+    width: 100px;
+    height: 70px;
+  }
+  .container {
+    max-width: 960px;
+  }
+  
+  .pricing-header {
+    max-width: 700px;
+  }
+  
+  .card-deck .card {
+    min-width: 220px;
+    background-color:transparent; 
+  }
+
+  .selector-for-some-widget {
+    box-sizing: content-box;
+  }
+.btn:hover{
+  background-color:darkgrey;
+  
+}
+.btn{
+  background-color: transparent;
+  color: cadetblue;
+}
+.soshio{
+  width: 20px;
+}
+.mooore{
+  display: inline
+}
