@@ -12,8 +12,9 @@
   
   .logoo{
     border-radius: 10%;
-    width: 100px;
-    height: 70px;
+    width: 70px;
+    height: 50px;
+    
   }
   .container {
     max-width: 960px;
@@ -45,3 +46,7 @@
 .mooore{
   display: inline
 }
+
+ul#otis {
+  list-style-type: none;
+  }
